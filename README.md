@@ -2,9 +2,6 @@
 
 Svelcordgame is a template repository that seamlessly integrates your Discord Activity with SvelteKit, using a GameMaker HTML5 build to display your Discord activity. This template includes a brick breaker game created with GameMaker to demonstrate the integration.
 
-**I suddenly don't want to support GameMaker anymore.**  
-<img src="https://github.com/TheSleepyKoala/Svelcordgame/assets/59434446/d68d40e6-47b4-4744-9558-1f973bb64754" alt=":^)" width="500" />
-
 ## Features
 
 -   Easy integration of Discord Activity with SvelteKit
